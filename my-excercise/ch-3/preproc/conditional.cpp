@@ -1,5 +1,5 @@
 #include <cstdio>
-//#define FOO 10
+// #define FOO 10
 #include "conditional.h"
 
 int main() {
